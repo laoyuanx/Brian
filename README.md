@@ -1,4 +1,3 @@
-# Brian_Portfolio
 
 ## [Purchase Order Management System in Python](https://laoyuanx.github.io/portfolio/)
 - AI-driven replenishment for optinmal inventory control
